@@ -1,2 +1,3 @@
-# 034_LeetCode_Python
-LeetCode中的题库，用Python练练手
+## Lamarck &nbsp; &nbsp; &nbsp; 2025-9-1
+#### LeetCode日常练习
+---
