@@ -18,5 +18,21 @@ class Solution(object):
                     return [i,j]
 ```
 
+*02  哈希表 O(N)*
+```python
+class Solution(object):
+    def twoSum(self, nums, target):
+        """
+        :type nums: List[int]
+        :type target: int
+        :rtype: List[int]
+        """
+        hashtable = dict()
+        for index, num in enumerate(nums):
+            left = target - num
+            if left in hashtable:
+                return [hashtable[left], index]
+            hashtable[num] = index
+```
 
 
