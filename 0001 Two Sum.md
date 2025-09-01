@@ -3,7 +3,7 @@
 ---
 
 
-*01  两个for暴力求解*
+*01  两个for暴力求解 O(N^2)*
 ```python
 class Solution(object):
     def twoSum(self, nums, target):
@@ -17,4 +17,5 @@ class Solution(object):
                 if nums[i] + nums[j] == target and i != j:
                     return [i,j]
 ```
+
 
