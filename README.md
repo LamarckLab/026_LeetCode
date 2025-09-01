@@ -1,3 +1,4 @@
-## Lamarck &nbsp; &nbsp; &nbsp; 2025-9-1
+## Lamarck &nbsp; &nbsp; &nbsp; 
 #### LeetCode日常练习
 ---
+2025-9-1 0001 Two Sum
